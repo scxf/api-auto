@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="柠檬班项目" parallel="false"> <!-- suite 套件/项目 -->
+  <test name="用户模块"><!--模块 -->
+    <classes>
+      <class name="com.lemon.cases.RegisterCase"/>
+      <!-- <class name="com.lemon.cases.LoginCase"/>
+      <class name="com.lemon.cases.RechargeCase"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
